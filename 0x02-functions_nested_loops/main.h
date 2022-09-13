@@ -1,2 +1,1 @@
-
-lol
+int _putchar (char c);

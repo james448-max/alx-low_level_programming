@@ -1,9 +1,19 @@
-0x09. C - Static libraries
-Description
-0-Create the static library libmy.a containing all files given:
+#INTRODUCTION
 
-| Steps on CLI
+-> This is the readme file for task 9
 
-*gcc -Wall -pedantic -Werror -Wextra -std=gnu89 -c *.c | ar -rc libmy.a *.o |
+-> All files were made through the shell with Vim editor
+#THE NAMES OF THE FILES IN THIS PROJECTS ARE:
 
-1 - Create a script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory. 
+-> _putchar.c
+
+-> libmy.a
+
+-> main.h
+
+-> All files are the works of the repo owner
+
+-> Usage is open and permitted
+#CONCLUSION
+
+-> "Becoming a Programmer is not easy but it is better"
